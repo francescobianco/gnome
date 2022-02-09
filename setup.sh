@@ -3,12 +3,13 @@
 ## Install extensions manager
 sudo apt-get install chrome-gnome-shell
 
-## Remove unused
+## Remove unused extensions
 gnome-extensions uninstall system-monitor@paradoxxx.zero.gmail.com
 gnome-extensions uninstall gTile@vibou
 gnome-extensions uninstall sound-output-device-chooser@kgshank.net
 
-
+## Import useful extensions
+gnome-extensions install dash-to-dock@micxgx.gmail.com
 
 #StatusTitleBarAndDropdown@devpower.org
 #app-menu-window-title@eternal-sorrow.github.com
